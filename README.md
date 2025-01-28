@@ -90,7 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Bear GIF from [Tenor](https://tenor.com/)
 - Inspiration from Valentine's Day cards
 - [MIT License](LICENSE)
--mewtru
+- mewtru
 ---
 
 Made with ❤️ for spreading love and joy 
